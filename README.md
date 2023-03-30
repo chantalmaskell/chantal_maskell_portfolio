@@ -1,7 +1,22 @@
-# chantalmaskell.github.io
+# Portfolio Site - PHP, MySQL, HTML, XAMPP
 
-# hey! great to see you found my site. You'll notice there are a few areas that still need work, however most of the site is relatively functional and ready to look at (albeit there isn't much functionality as of yet).
+# First iteration of a portfolio site to showcase general experience and projects.
 
-# I've since been working on a new project which means I can learn from the mistakes and limitations of this site... meaning I'll incorporate PHP and potentially look into linking to MySQL for any database requirements. For now, the site looks decent. The code isn't as sophisticated as the new one however so the PHP will help reduce any redundancies and repetitive code (header, footer and whatnot).
+## Table of Contents
 
-# if you are viewing the site on mobile, this is also in my plans to optimise - I appreciate it is certainly not compatible right now!
+- [Background](#background)
+- [Dictionary Serialisation](#pickle)
+- [Encryption](#encryption)
+- [Install](#install)
+- [Directory Tree](#directorytree)
+- [License](#license)
+
+## Background
+
+# Currently working on updating this site to the new version with cleaner and more readable code. The next update incorporates PHP and will link to MySQL for database requirements. Applying PHP will help reduce any redundancies and repetitive code and will allow quick site updates in the future.
+
+# Optimisation for other devices will also be applied with the next update.
+
+## License
+
+[MIT © Chantal Maskell.](../LICENSE)
