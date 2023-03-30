@@ -1,4 +1,4 @@
-# Portfolio Site - PHP, MySQL
+# Portfolio Site - V1
 
 First iteration of a portfolio site to showcase general experience and projects.
 
